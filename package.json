@@ -1,0 +1,25 @@
+{
+  "name": "code-challenge",
+  "version": "1.0.0",
+  "jest": {
+    "verbose": true
+  },
+  "description": "",
+  "main": "challenge.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LTUC/code-challenge.git"
+  },
+  "author": "Tamim Hamoudi (thamudi), Rawan Al Nujoom, Dario Thornhill",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LTUC/code-challenge/issues"
+  },
+  "homepage": "https://github.com/LTUC/code-challenge#readme",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}
